@@ -1,3 +1,3 @@
-## Network-Fundamentals
-# Network Devices
-==> Hosts
+# Network-Fundamentals
+## Network Devices
+- Hosts
