@@ -11,4 +11,4 @@
 <br>
 
 ## Hosts :-
-< Hosts are any device which sends or receive traffic. >
+* Hosts are any device which sends or receive traffic. 
