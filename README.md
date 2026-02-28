@@ -38,6 +38,16 @@
 
 ## Network :-
 <img width="1464" height="863" alt="image" src="https://github.com/user-attachments/assets/78beac0c-b6b3-4849-95c0-5da0f924d023" />
+<br>
+-
+<img width="1053" height="737" alt="image" src="https://github.com/user-attachments/assets/4e58d74a-82a0-4702-8c4e-9977784080bb" />
+<br>
+<br>
+<br>
+
+## Repeator :-
+
+
 
 
 
