@@ -25,6 +25,7 @@
 ## IP Address :-
 <br>
 <img width="1489" height="441" alt="image" src="https://github.com/user-attachments/assets/a347c62c-f688-4602-a0e3-a9880f19adff" />
+
 * SRC means source <br>
 * DST means destination <br>
 <br>
@@ -46,6 +47,15 @@
 <br>
 
 ## Repeator :-
+* A Repeater is a networking device used to extend the distance of a network by regenerating weak signals.
+<br>
+
+When data travels through a network cable or wireless medium over a long distance, its signal becomes weak. This is called signal attenuation.
+
+A repeater receives the weak signal, regenerates it, and sends it forward so that data can travel a longer distance.
+<br>
+<img width="1526" height="1073" alt="image" src="https://github.com/user-attachments/assets/7e6cb568-096e-4891-9207-bcb1f0f368fe" />
+
 
 
 
