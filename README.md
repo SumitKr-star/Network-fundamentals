@@ -55,7 +55,14 @@ When data travels through a network cable or wireless medium over a long distanc
 A repeater receives the weak signal, regenerates it, and sends it forward so that data can travel a longer distance.
 <br>
 
-<img width="1532" height="973" alt="image" src="https://github.com/user-attachments/assets/0a09056a-1b6e-48f4-9b33-e613cbd0c16e" />
+<img width="1532" height="973" alt="image" src="https://github.com/user-attachments/assets/0a09056a-1b6e-48f4-9b33-e613cbd0c16e" /> HUB
+
+<br>
+
+## HUB :-
+* A Hub is a basic networking device used to connect multiple computers or devices in a network.
+
+It receives data from one connected device and broadcasts that data to all other connected devices, regardless of which device is the intended receiver.
 
 
 
