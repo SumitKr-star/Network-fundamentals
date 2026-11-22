@@ -57,6 +57,7 @@ A repeater receives the weak signal, regenerates it, and sends it forward so tha
 
 <img width="1532" height="973" alt="image" src="https://github.com/user-attachments/assets/0a09056a-1b6e-48f4-9b33-e613cbd0c16e" />
 <br>
+<br>
 
 ## HUB :-
 * A Hub is a basic networking device used to connect multiple computers or devices in a network.
