@@ -6,6 +6,7 @@
 - Repeater
 - Hub
 - Switch
+- Router
 <br>
 
 # Hosts :-
@@ -78,7 +79,7 @@ Unlike a Hub, a Switch sends data only to the intended destination device using 
 <img width="1503" height="952" alt="image" src="https://github.com/user-attachments/assets/1c25624b-7025-475f-9373-6a6ba5f7543f" />
 <br>
 
-## Main functions of a Switch
+### Main functions of a Switch
 - Connects multiple devices in a LAN.
 - Uses MAC addresses to identify devices.
 - Forwards data to the correct destination port.
@@ -89,6 +90,11 @@ Unlike a Hub, a Switch sends data only to the intended destination device using 
 # Difference between Hub, Repeater and Switch
 
 <img width="915" height="275" alt="image" src="https://github.com/user-attachments/assets/66f1961f-6863-4214-a68a-eacb4bb36c40" />
+<br>
+
+# Router :-
+<img width="1528" height="1078" alt="image" src="https://github.com/user-attachments/assets/d0ca21c5-9e00-42e6-bc42-4f2da99758b9" />
+
 
 
 
