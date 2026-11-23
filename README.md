@@ -10,7 +10,7 @@
 - Router
 <br>
 
-## Hosts :-
+# Hosts :-
 <img width="1385" height="881" alt="Screenshot 2026-02-27 140329" src="https://github.com/user-attachments/assets/6481043a-71c1-4c65-9f12-9635188a4af2" />
 <br>
 <br>
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-## IP Address :-
+# IP Address :-
 <br>
 <img width="1489" height="441" alt="image" src="https://github.com/user-attachments/assets/a347c62c-f688-4602-a0e3-a9880f19adff" />
 
@@ -37,7 +37,7 @@
 <br>
 <br>
 
-## Network :-
+# Network :-
 <img width="1464" height="863" alt="image" src="https://github.com/user-attachments/assets/78beac0c-b6b3-4849-95c0-5da0f924d023" />
 <br>
 -
@@ -46,7 +46,7 @@
 <br>
 <br>
 
-## Repeator :-
+# Repeator :-
 * A Repeater is a networking device used to extend the distance of a network by regenerating weak signals.
 <br>
 
@@ -59,7 +59,7 @@ A repeater receives the weak signal, regenerates it, and sends it forward so tha
 <br>
 <br>
 
-## HUB :-
+# HUB :-
 * A Hub is a basic networking device used to connect multiple computers or devices in a network.
 
 A Hub is a networking device used to connect multiple computers in a Local Area Network (LAN). It receives data from one device and broadcasts it to all other connected devices, regardless of which device is the intended receiver. It operates at Layer 1 (Physical Layer) of the OSI model.
@@ -69,7 +69,7 @@ A Hub is a networking device used to connect multiple computers in a Local Area 
 <br>
 <br>
 
-## Switch :-
+# Switch :-
 * A Network Switch is a networking device used to connect multiple computers and devices in a Local Area Network (LAN).
 
 A Network Switch is a networking device used to connect multiple devices in a LAN. It uses MAC addresses to identify the destination device and forwards data only to the appropriate port. It generally operates at Layer 2 (Data Link Layer) of the OSI model.
