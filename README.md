@@ -5,9 +5,7 @@
 - Network
 - Repeater
 - Hub
-- Bridge
 - Switch
-- Router
 <br>
 
 # Hosts :-
