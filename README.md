@@ -66,9 +66,30 @@ A Hub is a networking device used to connect multiple computers in a Local Area 
 <br>
 
 <img width="1528" height="1003" alt="image" src="https://github.com/user-attachments/assets/ab85a95e-172f-4b52-8812-6174c198b896" />
+<br>
+<br>
 
+## Switch :-
+* A Network Switch is a networking device used to connect multiple computers and devices in a Local Area Network (LAN).
 
+A Network Switch is a networking device used to connect multiple devices in a LAN. It uses MAC addresses to identify the destination device and forwards data only to the appropriate port. It generally operates at Layer 2 (Data Link Layer) of the OSI model.
 
+Unlike a Hub, a Switch sends data only to the intended destination device using its MAC address.
+<br>
+
+<img width="1503" height="952" alt="image" src="https://github.com/user-attachments/assets/1c25624b-7025-475f-9373-6a6ba5f7543f" />
+<br>
+
+# Main functions of a Switch
+- Connects multiple devices in a LAN.
+- Uses MAC addresses to identify devices.
+- Forwards data to the correct destination port.
+- Reduces unnecessary network traffic.
+- Supports efficient communication between devices.
+<br>
+<br>
+
+## 
 
 
 
