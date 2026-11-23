@@ -89,7 +89,9 @@ Unlike a Hub, a Switch sends data only to the intended destination device using 
 <br>
 <br>
 
-## 
+# Difference between Hub, Repeater and Switch
+
+<img width="915" height="275" alt="image" src="https://github.com/user-attachments/assets/66f1961f-6863-4214-a68a-eacb4bb36c40" />
 
 
 
