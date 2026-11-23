@@ -80,7 +80,7 @@ Unlike a Hub, a Switch sends data only to the intended destination device using 
 <img width="1503" height="952" alt="image" src="https://github.com/user-attachments/assets/1c25624b-7025-475f-9373-6a6ba5f7543f" />
 <br>
 
-# Main functions of a Switch
+## Main functions of a Switch
 - Connects multiple devices in a LAN.
 - Uses MAC addresses to identify devices.
 - Forwards data to the correct destination port.
