@@ -87,7 +87,6 @@ Unlike a Hub, a Switch sends data only to the intended destination device using 
 - Reduces unnecessary network traffic.
 - Supports efficient communication between devices.
 <br>
-<br>
 
 # Difference between Hub, Repeater and Switch
 
