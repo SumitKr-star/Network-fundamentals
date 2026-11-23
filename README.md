@@ -62,7 +62,10 @@ A repeater receives the weak signal, regenerates it, and sends it forward so tha
 ## HUB :-
 * A Hub is a basic networking device used to connect multiple computers or devices in a network.
 
-It receives data from one connected device and broadcasts that data to all other connected devices, regardless of which device is the intended receiver.
+A Hub is a networking device used to connect multiple computers in a Local Area Network (LAN). It receives data from one device and broadcasts it to all other connected devices, regardless of which device is the intended receiver. It operates at Layer 1 (Physical Layer) of the OSI model.
+<br>
+
+<img width="1528" height="1003" alt="image" src="https://github.com/user-attachments/assets/ab85a95e-172f-4b52-8812-6174c198b896" />
 
 
 
